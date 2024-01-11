@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Laundry Management</string>
+    <string name="app_logo_description">Laundry mng App logo</string>
+
+    <string name="act_main_windowname_hint">Window name</string>
+    <string name="act_main_welcome">Welcome User,\n </string>
+    <string name="act_main_open_window">Machines</string>
+    <string name="act_main_open_room_detail">Reservations</string>
+
+    <string name="act_act_window_text">Window name</string>
+
+    <string name="act_room_detail_name">Room name</string>
+    <string name="act_room_detail_current_temperature">Current temperature</string>
+    <string name="act_room_detail_target_temperature">Target temperature</string>
+
+    <string name="act_sensor_detail_id_field">Sensor id</string>
+    <string name="act_sensor_detail_name_field">Sensor name</string>
+    <string name="act_sensor_detail_type_field">Sensor Type</string>
+    <string name="act_sensor_detail_measure_field">Sensor measurement</string>
+
+    <string name="act_reservation_detail_id_field">Reservation id</string>
+    <string name="act_reservation_detail_user_field">User name</string>
+    <string name="act_reservation_detail_date">Reserved on</string>
+    <string name="act_reservation_detail_available">Status</string>
+    <string name="act_reservation_detail_start">From</string>
+    <string name="act_reservation_detail_end">To</string>
+
+    <string name="act_machine_detail_machineId"> ID </string>
+    <string name="act_machine_detail_name"> Machine Name </string>
+    <string name="act_machine_detail_available"> Availability </string>
+    <string name="act_machine_detail_machineStatus"> Status </string>
+    <string name="act_machine_detail_progress"> Progress </string>
+
+    <string name="menu_reservations">Reservations</string>
+    <string name="menu_machines">Machines</string>
+    <string name="menu_sensors">Sensors</string>
+
+</resources>
